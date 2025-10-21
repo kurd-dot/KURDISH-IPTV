@@ -17,11 +17,9 @@ https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1, Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies Action" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logo_movies_action/original/logo_movies_action.png?height=auto&width=700&croppingPoint=&version=1&type=png" group-title="SHAHID VIP",Movies Action
-http://snap-tr.org:80/MahmodHa/HamidEgy/261465
-#EXTINF:-1 tvg-id="" tvg-name="Movies Thriller" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logos_movies_thriller/original/logos_movies_thriller.png?height=auto&width=700&croppingPoint=&version=1&type=jpg" group-title="SHAHID VIP",Movies Thriller
-http://snap-tr.org:80/MahmodHa/HamidEgy/261466
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="" tvg-name="Movies Thriller" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/jun/logos_movies_thriller/original/logos_movies_thriller.png?height=auto&width=700&croppingPoint=&version=1&type=jpg" 
+group-title="SHAHID VIP",Movies Thriller
+http://snap-tr.org:80/MahmodHa/HamidEgy/261466#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
