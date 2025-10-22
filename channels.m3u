@@ -29,9 +29,12 @@ https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/
 https://media.streambrothers.com:1936/8226/8226/chunklist_w35466031.m3u8
 #EXTINF:-1, NRT 2
 https://cdn.karwan.tv/nrt2/index.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, NRT 3
+https://live3.karwan.tv/nrt-3-kids/index.mpd?token=648dc8cc245889c04703503fc32535e1da5aea31-7b6274d9086af1a975837775db60ef68-1761179009-1761168209&remote=no_check_ip
+#EXTINF:-1, NRT 4
+https://live9.karwan.tv/Nrt3/index.m3u8
+#EXTINF:-1, NRT Sport
+http://142.132.133.190:1935/live/NRT-SPORT-HawezHD/halabja88.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
