@@ -43,7 +43,8 @@ https://media2.streambrothers.com:1936/8218/8218/halabja88.m3u8
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1, khak tv
 http://bblserver.ddns.net:1935/stream/khakhd/halabja88.m3u8
-#EXTINF:-1,
+#EXTINF:-1, EMAN TV
+http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
