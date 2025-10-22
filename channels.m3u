@@ -41,7 +41,8 @@ https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 https://media2.streambrothers.com:1936/8218/8218/halabja88.m3u8
 #EXTINF:-1, Avar
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1, khak tv
+http://bblserver.ddns.net:1935/stream/khakhd/halabja88.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
