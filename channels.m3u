@@ -95,7 +95,8 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="🇭🇺 KURDISH", IstarQuran
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
-#EXTINF:-1 group-title="🇭🇺 KURDISH", 
+#EXTINF:-1 group-title="🇭🇺 KURDISH", AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇭🇺 KURDISH", 
 #EXTINF:-1 group-title="🇭🇺 KURDISH", 
 #EXTINF:-1 group-title="🇭🇺 KURDISH", 
