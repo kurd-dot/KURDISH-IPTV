@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tMwGpPf/Untitled-design-37.png" group-title="MOVIES", هۆبس و شۆو
+https://rashaba.com/upload/videos/2025/10/PqUe9qSxAiEmRk6/tdG5O4BckaLfQihKpgcO_18_783baa33e54e043c91c1caaf9db6549e_video_h264.m3u8
+
 #EXTINF:-1  group-title="⚽ BEIN SPORTS VIP" tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",beIN 1
 https://dk.wo.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1  group-title="⚽ BEIN SPORTS VIP" tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",beIN 2
