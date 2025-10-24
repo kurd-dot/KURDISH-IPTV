@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="hubs and show" tvg-logo="https://i.postimg.cc/5tMwGpPf/Untitled-design-37.png" group-title="KURDISH MOVIES", هۆبس و شۆو
-https://rashaba.com/upload/videos/2025/10/PqUe9qSxAiEmRk6/tdG5O4BckaLfQihKpgcO_18_783baa33e54e043c91c1caaf9db6549e_video_h264.mp4
-
 #EXTINF:-1  group-title="⚽ BEIN SPORTS VIP" tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",beIN 1
 https://dk.wo.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1  group-title="⚽ BEIN SPORTS VIP" tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",beIN 2
@@ -134,6 +131,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇭🇺 KURDISH", 
 #EXTINF:-1 group-title="🇭🇺 KURDISH",
 
+#EXTINF:-1 tvg-id="" tvg-name="hubs and show" tvg-logo="https://i.postimg.cc/5tMwGpPf/Untitled-design-37.png" group-title="KURDISH MOVIES", هۆبس و شۆو
+https://rashaba.com/upload/videos/2025/10/PqUe9qSxAiEmRk6/tdG5O4BckaLfQihKpgcO_18_783baa33e54e043c91c1caaf9db6549e_video_h264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X-Large" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up3AylvzrVOTX7gCGQqGdLjKUew.jpg" group-title="KURDISH MOVIES - افلام كردية",X-Large
 http://bluedk.xyz:8880/movie/brahim79/05348805979/339287.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Watch Plan A 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ2NGRhZmUtZTk4Yy00MWFiLWE1YzEtZWY3OWRmZDAzMTg4XkEyXkFqcGdeQXVyMzUwNzM5NTM@._V1_FMjpg_UY720_.jpg" group-title="KURDISH MOVIES - افلام كردية",Watch Plan A 2021
